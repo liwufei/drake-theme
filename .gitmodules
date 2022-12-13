@@ -1,0 +1,3 @@
+[submodule "themes/drake"]
+	path = themes/drake
+	url = https://github.com/hugotheme/drake

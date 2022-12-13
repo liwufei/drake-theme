@@ -1,0 +1,4 @@
+baseURL = 'https://drake-theme.netlify.app'
+languageCode = 'en-US'
+title = 'Drake theme'
+theme = 'drake'
